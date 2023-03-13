@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: Feign Death Fix
+## Notes: Fixes disappearing hunter health.
+## Author: Averuki
+
+AveFeignDeathFix.lua
